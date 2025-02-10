@@ -91,6 +91,7 @@ Baixe as fontes através do link: https://github.com/ryanoasis/nerd-fonts/releas
 Se preferir, acesse o site https://www.nerdfonts.com/font-downloads e escolha uma fonte de sua preferência.
 
 **Bônus**
+
 Por padrão o gnome-terminal utiliza as fontes _Source Code Pro_, no caso das NerdFont o nome que você encontrará será _SauceCodePro Nerd Font_, caso você goste das fontes padrões do sistema, baixe através do link a fonte: https://github.com/ryanoasis/nerd-fonts/releases/download/v3.2.1/SourceCodePro.zip
 
 Extraia os arquivos em um pasta e realize o seguintes comandos para copiar todas as fontes e atualizar o cache.
