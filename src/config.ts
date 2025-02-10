@@ -14,7 +14,7 @@ export const SITE: Site = {
   showArchives: true,
   editPost: {
     url: "https://github.com/matheusgeres/matheusgeres.github.io/edit/main/src/content/blog",
-    text: "Suggest Changes",
+    text: "Sugerir Alterações",
     appendFilePath: true,
   },
 };
