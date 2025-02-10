@@ -3,7 +3,6 @@ import type socialIcons from "@assets/socialIcons";
 export type Site = {
   website: string;
   base: string;
-  trailingSlash: "never" | "always";
   author: string;
   profile: string;
   desc: string;
