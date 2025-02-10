@@ -64,9 +64,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "X",
-    href: "https://github.com/satnaing/astro-paper",
+    href: "https://www.threads.net/@geresdev",
     linkTitle: `${SITE.title} on X`,
-    active: false,
+    active: true,
   },
   {
     name: "Twitch",
