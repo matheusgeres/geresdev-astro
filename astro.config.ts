@@ -10,6 +10,7 @@ import { SITE } from "./src/config";
 export default defineConfig({
   site: SITE.website,
   base: SITE.base,
+  trailingSlash: SITE.trailingSlash,
   integrations: [
     tailwind({
       applyBaseStyles: false,
