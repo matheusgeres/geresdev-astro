@@ -7,7 +7,10 @@ tags:
   - fish
   - spaceship
   - themes
-description: Configurar fish como shell e colocando um tema minimalista
+description:
+  Aprenda a instalar o Fish no Fedora e deixá-lo mais estiloso com o Starship. 
+  No post, ensino como configurar tudo, adicionar plugins com Oh My Fish e definir o Fish como padrão 
+  no Gnome Terminal. Aprenda a como usar fontes Nerd para exibir os ícones.
 
 ---
 ![Fish Log](@assets/images/fish-e-spaceship/logo-fish.gif)

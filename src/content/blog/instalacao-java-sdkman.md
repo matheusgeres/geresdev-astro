@@ -1,6 +1,7 @@
 ---
 title: Instalação do Java no Linux via SDKMAN
 pubDatetime: 2019-08-21 00:30:58
+featured: true
 tags: 
   - linux
   - java
