@@ -51,4 +51,4 @@ E caso você queira fazer dual boot, também tem um vídeo dele comentando como 
 </div>
 
 
-Esses são os pontos de ambiente que acho que podem ser melhorados para uma experiência cada vez mais intuitiva e desafiadora para você que quer ser ou já é um prograador Java. E jamais se esqueça de se divertir durante o processo de construir, criar e aprender.
+Esses são os pontos de ambiente que acho que podem ser melhorados para uma experiência cada vez mais intuitiva e desafiadora para você que quer ser ou já é um programador Java. E jamais se esqueça de se divertir durante o processo de construir, criar e aprender.
