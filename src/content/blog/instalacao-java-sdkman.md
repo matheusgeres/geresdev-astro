@@ -40,4 +40,4 @@ Veja um exemplo de como rodar.
 sdk install java 8.0.222-zulu
 ```
 
-E pronto! O Java está configurado e as variáveis de ambiente setadas! Muito massa, né? :wink:
+E pronto! O Java está configurado e as variáveis de ambiente setadas! Muito massa, né? 😉
