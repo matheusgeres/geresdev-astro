@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://matheusgeres.github.io/", // replace this with your deployed domain
+  website: "https://geresdev.netlify.app/", // replace this with your deployed domain
   author: "Matheus Geres",
   profile: "https://satnaing.dev/",
   desc: "Blog do Matheus Geres com dicas sobre desenvolvimento, sistemas operacionais e tecnologia.",
@@ -13,7 +13,7 @@ export const SITE: Site = {
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   editPost: {
-    url: "https://github.com/matheusgeres/matheusgeres.github.io/edit/main/src/content/blog",
+    url: "https://github.com/matheusgeres/geresdev-astro/edit/main/src/content/blog",
     text: "Sugerir Alterações",
     appendFilePath: true,
   },
